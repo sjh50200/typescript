@@ -31,4 +31,4 @@ function add2(x: number | String, y: number | string): number | string {
     }
 }
 const v2: number = add2(1,2);
-console.log(add(1, '2'));
+console.log(add2(1, '2'));
